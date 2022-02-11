@@ -86,7 +86,7 @@
   
 
  <p align="center">
-<a href="https://www.linkedin.com/in/m-nasrul-a35a97181/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrul wahabi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-nasrul-wahabi-a35a97181/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrul wahabi" height="30" width="40" /></a>
 <a href="https://fb.com/m.n.wahabi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.n.wahabi" height="30" width="40" /></a>
 <a href="https://instagram.com/nasrulwahabi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasrulwahabi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/habiqi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="habiqi" height="30" width="40" /></a>
