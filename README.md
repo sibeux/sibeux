@@ -2,7 +2,7 @@
 
 <h2 align="center">Hellooo SyntaxianZ!</h1>
 
-<h1 align="center">Welcome to Repository Ngoding_Asix_SyntaxianZ 👋</h1>
+<h1 align="center">Welcome to My Github Profile 👋</h1>
 
 <h3 align="center">SibeUX Repository</h3>
 
