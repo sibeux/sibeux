@@ -6,44 +6,6 @@
 
 <h3 align="center">SibeUX Repository</h3>
 
- <div align="center">
-
-  <span>
-
-   <img src="https://img.shields.io/badge/Python-3869A8?style=for-the-badge&logo=python&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/Jupyter Notebook-E34E00?style=for-the-badge&logo=jupyternotebook&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/JAVA-B37400?style=for-the-badge&logo=java&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/PHP-574F97?style=for-the-badge&logo=php&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/C++-FF007B?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-  </span>
-
- </div>
-
-</br>
-
- <div align="center">
-
-  <span>
-   
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   
-   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=Git&logoColor=white"/>
-
-  </span>
-
- </div>
-
-</br>
-
 <div align="center"
 
 <p align="center">
