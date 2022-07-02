@@ -14,9 +14,9 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Java, Data Science, Web Development**
+- 🌱 I’m currently learning **Backend Development, Mobile Development**
 
-- 💬 Ask me about **Java, Python, Pandas**
+- 💬 Interested in **Design Graphic, Web Programming**
 
 - 📫 How to reach me **wahabinasrul@gmail.com**
 
