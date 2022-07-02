@@ -14,11 +14,11 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Backend Development, Mobile Development**
+🌱 I’m currently learning **Backend Development, Mobile Development**
 
-- 💬 Interested in **Design Graphic, Web Programming**
+💬 Interested in **Design Graphic, Web Programming**
 
-- 📫 How to reach me **wahabinasrul@gmail.com**
+📫 How to reach me **wahabinasrul@gmail.com**
 
 </div>
 
@@ -48,6 +48,7 @@
 <p align="center">
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe-illustrator" width="40" height="40"/> </a> 
 <a href="https://drive.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gdrive" width="40" height="40"/> </a>
+	<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://saskyong.files.wordpress.com/2016/03/logo_javascript.png" alt="gdrive" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sibeux/Ngoding_Asix_SyntaxianZ/blob/MyProgram/Doc/Windows/PR.jpg" alt="premiere" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="mi" width="40" height="40"/> </a>
 <a href="https://brave.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="mi" width="40" height="40"/> </a>
