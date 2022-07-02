@@ -4,8 +4,6 @@
 
 <h1 align="center">Welcome to My Github Profile 👋</h1>
 
-<h3 align="center">SibeUX Repository</h3>
-
 <div align="center"
 
 <p align="center">
