@@ -50,6 +50,7 @@
  </p>
 
 <p align="center">
+ <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png" alt="flutter" width="40" height="40"/> </a>
  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="gdrive" width="40" height="40"/> </a>
  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe-illustrator" width="40" height="40"/> </a>
  <a href="https://drive.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gdrive" width="40" height="40"/> </a>
