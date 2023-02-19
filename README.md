@@ -53,6 +53,7 @@
  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe-illustrator" width="40" height="40"/> </a>
  <a href="https://drive.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gdrive" width="40" height="40"/> </a>
  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://saskyong.files.wordpress.com/2016/03/logo_javascript.png" alt="gdrive" width="40" height="40"/> </a>
+ <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" alt="" width="40" height="40"/> </a>
  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sibeux/Ngoding_Asix_SyntaxianZ/blob/MyProgram/Doc/Windows/PR.jpg" alt="premiere" width="40" height="40"/> </a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="mi" width="40" height="40"/> </a>
  <a href="https://brave.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="mi" width="40" height="40"/> </a>
