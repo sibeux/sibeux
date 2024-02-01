@@ -86,16 +86,6 @@
 
 <div align="center">
 
-</br>
-
-<img src="https://raw.githubusercontent.com/sibeux/license-sibeux/351c5f8326b3669632ed83702ce39a3241b56cb7/snake.svg" alt="Snake Animation"/>
-
-</br>
-            
-</div>
-
-<div align="center">
-
  <span>  
 
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>
@@ -113,6 +103,12 @@
 </div>
 
 </br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sibeux/license-sibeux/351c5f8326b3669632ed83702ce39a3241b56cb7/snake.svg" alt="Snake Animation"/>
+
+</div>
 
 </br>
 
