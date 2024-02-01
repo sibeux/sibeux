@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sibeux/license-sibeux/351c5f8326b3669632ed83702ce39a3241b56cb7/snake.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/sibeux/sibeux/output/snake.svg" alt="Snake animation" />
 
 </div>
 
