@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="center">Hellooo SyntaxianZ!</h1>
+<h2 align="center">Hellooo SyntaxianZ! 🤠</h1>
 
 <h1 align="center">Welcome to My Github Profile 👋</h1>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Backend Development, Mobile Development**
+🌱 I’m currently learning **Web Programming & Mobile Development**
 
-💬 Interested in **Design Graphic, Web Programming**
+💬 Interested in **Graphic Design & Artificial Intelligent**
 
 📫 How to reach me **<wahabinasrul@gmail.com>**
 
