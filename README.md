@@ -105,7 +105,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/sibeux/sibeux/blob/output/green-snake.svg)
+![Snake animation](https://github.com/sibeux/sibeux/blob/output/blue-sibeux-snake.svg)
 
 </div>
 
