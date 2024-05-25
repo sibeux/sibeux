@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/975298274917482556/1202604533977583636/snake.svg?ex=65ce0fc0&is=65bb9ac0&hm=6e98407f3ee9ce7bc97563d742f8017209f2b6ac6bbc42113f0561ff2e163af1&" alt="Snake animation" />
+![snake animation](https://github.com/sibeux/sibeux/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
