@@ -105,7 +105,7 @@
 
 <div align="center">
 
-![snake animation](https://github.com/sibeux/sibeux/blob/output/github-contribution-grid-snake2.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibeux/sibeux/output/github-contribution-grid-snake.svg">
 
 </div>
 
