@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibeux/sibeux/output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibeux/sibeux/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 
 </div>
 
