@@ -39,7 +39,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sibeux/Ngoding_Asix_SyntaxianZ/blob/MyProgram/Doc/Windows/AE.jpg" alt="premiere" width="50" height="50"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
-<a href="https://www.python.org" rel="noreferrer"> <img src="./assets/img/sibeux-python.svg" alt="python" width="50" height="50"/> </a>
+<a href="https://www.python.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://developer.android.com/" rel="noreferrer"> <img src="./assets/img/android-studio.svg" alt="android studio" width="50" height="50"/> </a>
 </p>
 
