@@ -32,6 +32,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="./assets/img/sibeux-python.svg" alt="python" width="55" height="48"/></a>
 <a href="https://whatwg.org/html" target="_blank"> <img src="./assets/img/html.svg" alt="html" width="55" height="48"/></a>
 <a href="https://git-scm.com" target="_blank"> <img src="./assets/img/git.svg" alt="git" width="55" height="48"/></a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="./assets/img/postgre.svg" alt="postgre" width="55" height="48"/></a>
 <a href="https://www.figma.com" target="_blank"> <img src="./assets/img/figma.svg" alt="Figma" width="55" height="48"/></a>
 <a href="https://www.java.com" target="_blank"> <img src="./assets/img/java.svg" alt="Java" width="55" height="48"/></a>
 <a href="https://developer.android.com/" target="_blank"> <img src="./assets/img/android-studio.svg" alt="android studio" width="55" height="48"/></a>
