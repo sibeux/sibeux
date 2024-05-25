@@ -29,8 +29,9 @@
 
 <h3 align="center">☕Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="./assets/img/sibeux-python.svg" alt="python" width="50" height="50"/></a>
-<a href="https://developer.android.com/" target="_blank"> <img src="./assets/img/android-studio.svg" alt="android studio" width="50" height="50"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="./assets/img/sibeux-python.svg" alt="python" width="52" height="48"/></a>
+<div width=""></div>
+<a href="https://developer.android.com/" target="_blank"> <img src="./assets/img/android-studio.svg" alt="android studio" width="52" height="48"/></a>
 </p>
 
 <p align="center">
