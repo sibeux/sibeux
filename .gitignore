@@ -1,2 +1,4 @@
 # ignore all file with name desktop.ini
 desktop.ini
+*.ini
+sibeux/*.ini
